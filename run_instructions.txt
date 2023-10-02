@@ -1,0 +1,18 @@
+part 1:
+./run_trials.sh
+show files
+
+part 2:
+gcc syscalls.c -o syscalls
+run file
+then ./syscalls s
+then ls -l
+then show file
+then delete that file
+then ./syscalls w
+then ls -l
+then show file
+
+part 3:
+gcc -o prod-com prod-com.c -lpthread
+./prod-com 60 10 1
