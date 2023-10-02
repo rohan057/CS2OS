@@ -1,4 +1,4 @@
-# CS2OS
+# CS2OS - Coursework
 
 Part 1: Containers, scripting and UNIX CLIs:
 The container provided for this assessment uses the bash shell, and includes an executable named “trial”.
